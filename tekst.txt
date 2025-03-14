@@ -1,0 +1,1 @@
+Tworzę plik tekstowy by wykonać kolejny commit. Trochę czasu zajęło mi przypomnienie sobie hasła do GitHuba, jednak i tak teraz autoryzacja dotyczy PAT generowanego na stronie. 
