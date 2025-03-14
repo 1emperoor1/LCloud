@@ -24,4 +24,4 @@ OUTPUT_FILE="/tmp/instance_info.txt"
 } > "$OUTPUT_FILE"
 
 # 5. Wgrywanie pliku do S3
-aws s3 cp "$OUTPUT_FILE" "s3://nazwa-bucketu/instance_info.txt"
+aws s3 cp "$OUTPUT_FILE" "s3://applicant-task/r5d4/instance_info.txt"

@@ -1,1 +1,2 @@
 Tworzę plik tekstowy by wykonać kolejny commit. Trochę czasu zajęło mi przypomnienie sobie hasła do GitHuba, jednak i tak teraz autoryzacja dotyczy PAT generowanego na stronie. 
+Kolejny commit będzie potrzebny po zaaktualizowaniu ścieżki do Bucketu. Niestety nie mam dostępu do wylistowania zawartości bucketu, jednak skrypt wydaje się działać poprawnie. 
